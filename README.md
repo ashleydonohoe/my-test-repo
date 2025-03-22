@@ -1,3 +1,3 @@
 # my-test-repo
-Practice account
+Practice account for class
 minor update
